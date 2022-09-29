@@ -2,7 +2,7 @@
 
 We're UT Arlington's chapter for the Association for Computing Machinery (ACM). Want to join us? Visit our [official Discord server](https://lryanle.com/acm).
 
-## Branches
+### Branches
  - **ACM Educate**: Providing students with valuable skills and opportunities to develop themselves within the workforce.
  - **ACM Projects**: Dedicated to developing industry-applicable skills and technological knowledge through semester long projects.
  - **ACM Research**: Leading research, development and innovation. Where we explore and implement new ideas at the forefront of technology.
