@@ -9,7 +9,7 @@ We're UT Arlington's chapter for the Association for Computing Machinery (ACM). 
  <a href="https://lryanle.com/acm">Discord</a> |
  <a href="https://www.facebook.com/utaacm">Facebook</a> |
  <a href="https://twitter.com/uta_acm">Twitter</a> |
- <a href="https://www.instagram.com/acmuta/">Instagram</a>
+ <a href="https://www.instagram.com/acmuta/">Instagram</a> |
  <a href="https://www.hackuta.org/">HackUTA 2022</a>
 </p>
 
