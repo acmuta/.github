@@ -2,6 +2,16 @@
 
 We're UT Arlington's chapter for the Association for Computing Machinery (ACM). Want to join us? Visit our [official Discord server](https://lryanle.com/acm).
 
+----
+
+<p align="center">
+ <a href="https://acm.uta.edu">MavOrgs</a> |
+ <a href="https://lryanle.com/acm">Discord</a> |
+ <a href="https://www.facebook.com/utaacm">Facebook</a> |
+ <a href="https://twitter.com/uta_acm">Twitter</a> |
+ <a href="https://www.instagram.com/acmuta/">Instagram</a>
+</p>
+
 ### Branches
  - **ACM Educate**: Providing students with valuable skills and opportunities to develop themselves within the workforce.
  - **ACM Projects**: Dedicated to developing industry-applicable skills and technological knowledge through semester long projects.
