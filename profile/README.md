@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/acmuta/.github/main/github-logo-banner.png)
-
 We're UT Arlington's chapter for the Association for Computing Machinery (ACM). Want to join us? Visit our [official Discord server](https://lryanle.com/acm).
 
 ----
